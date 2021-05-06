@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addicted5&layout=compact)]
 
 [![Addicted's github stats](https://github-readme-stats.vercel.app/api?username=Addicted5&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
