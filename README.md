@@ -1,4 +1,10 @@
-### Hi there 👋
+<b>Follow me on  </b>
+ <a href="https://www.linkedin.com/in/ashutosh-prusty/" target="_blank">
+  <img height="30"
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addicted5&layout=compact)](https://www.hackerrank.com/ashutoshprusty29)
 
