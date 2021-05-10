@@ -4,10 +4,12 @@
 
 [![Addicted's github stats](https://github-readme-stats.vercel.app/api?username=Addicted5&count_private=true&show_icons=true&theme=default&hide_rank=false)]()
 
-[![Addicted's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=addicted)]()
+
 
 <!--
 **Addicted5/Addicted5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Addicted's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=addicted)]()
 
 Here are some ideas to get you started:
 
