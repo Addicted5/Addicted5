@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addicted5&layout=compact)](https://www.hackerrank.com/ashutoshprusty29)
 
-[![Addicted's github stats](https://github-readme-stats.vercel.app/api?username=Addicted5&count_private=true&show_icons=true&theme=radical&hide_rank=false)]()
+[![Addicted's github stats](https://github-readme-stats.vercel.app/api?username=Addicted5&count_private=true&show_icons=true&theme=default&hide_rank=false)]()
 
 <!--
 **Addicted5/Addicted5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
