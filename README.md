@@ -6,9 +6,9 @@
   />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addicted5&layout=compact)](https://www.hackerrank.com/ashutoshprusty29)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prustyashutosh&layout=compact)](https://www.hackerrank.com/ashutoshprusty29)
 
-[![Addicted's github stats](https://github-readme-stats.vercel.app/api?username=Addicted5&count_private=true&show_icons=true&theme=default&hide_rank=false)]()
+[![Addicted's github stats](https://github-readme-stats.vercel.app/api?username=prustyashutosh&count_private=true&show_icons=true&theme=default&hide_rank=false)]()
 
 
 
