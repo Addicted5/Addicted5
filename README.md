@@ -5,11 +5,12 @@
 <h2>GitHub Stats</h2>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prustyashutosh&count_private=true&show_icons=true&theme=default&hide_rank=false" />
-</a>
-<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prustyashutosh&layout=compact)](https://www.hackerrank.com/ashutoshprusty29" />
 </a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prustyashutosh&count_private=true&show_icons=true&theme=default&hide_rank=false" />
+</a>
+
 
 <h2>This week I worked on</h2>
 
