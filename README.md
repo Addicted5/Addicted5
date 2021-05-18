@@ -2,12 +2,16 @@
 
 <p>Welcome to my page! </br> I'm Ashutosh, Machine Enthusiast from <b>Bhubaneswar, India</b>. </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prustyashutosh&layout=compact)](https://www.hackerrank.com/ashutoshprusty29)
-
 <h2>GitHub Stats</h2>
 
-[![Addicted's github stats](https://github-readme-stats.vercel.app/api?username=prustyashutosh&count_private=true&show_icons=true&theme=default&hide_rank=false)]()
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prustyashutosh&count_private=true&show_icons=true&theme=default&hide_rank=false" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prustyashutosh&layout=compact)](https://www.hackerrank.com/ashutoshprusty29" />
+</a>
 
+<h2>This week I worked on</h2>
 
 <h2>Personal Projects</h2>
 
