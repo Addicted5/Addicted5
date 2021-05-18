@@ -14,7 +14,7 @@
 
 <h2>This week I worked on</h2>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@addicted" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=addicted" />
 </a>
 <h2>Personal Projects</h2>
 
