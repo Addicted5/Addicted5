@@ -10,10 +10,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prustyashutosh&layout=compact)](https://www.hackerrank.com/ashutoshprusty29)
 
 <h2>GitHub Stats</h2>
+
 [![Addicted's github stats](https://github-readme-stats.vercel.app/api?username=prustyashutosh&count_private=true&show_icons=true&theme=default&hide_rank=false)]()
 
 
-**Sample Projects:**
+<h2>Personal Projects</h2>
 [Find P-Value Web App](https://p-value-demo.herokuapp.com)
 
 
