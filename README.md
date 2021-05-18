@@ -1,4 +1,4 @@
-## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <b>Follow me on  </b>
  <a href="https://www.linkedin.com/in/ashutosh-prusty/" target="_blank">
   <img height="30"
@@ -9,6 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prustyashutosh&layout=compact)](https://www.hackerrank.com/ashutoshprusty29)
 
+<h2>GitHub Stats</h2>
 [![Addicted's github stats](https://github-readme-stats.vercel.app/api?username=prustyashutosh&count_private=true&show_icons=true&theme=default&hide_rank=false)]()
 
 
