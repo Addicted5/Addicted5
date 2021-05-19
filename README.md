@@ -4,13 +4,14 @@
 
 <h2>GitHub Stats</h2>
 
+<p>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prustyashutosh&layout=compact"/>
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prustyashutosh&count_private=true&show_icons=true&theme=default&hide_rank=false" />
 </a>
-
+</p>
 
 <h2>This week I worked on</h2>
 <a href="#">
