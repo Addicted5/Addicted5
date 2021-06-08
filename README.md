@@ -29,6 +29,7 @@
   <a href="https://twitter.com/ashutoshprusty_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=addicted-ai&label=Profile+Views&color=green&style=plastic%22%20alt=%22addicted-ai" /> </p>
 
 
 <!--
