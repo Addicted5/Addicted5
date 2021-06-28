@@ -20,7 +20,7 @@
 <h2>Personal Projects</h2>
 
 [Find P-Value Web App](https://p-value-demo.herokuapp.com) <br>
-[WebApp for all my ML deployment](http://addicted-ai.herokuapp.com/) (Currently working on)
+[WebApp for all my ML deployment](https://addicted-ai.herokuapp.com/) (Currently working on)
 
 <h3>Where to find me</h3>
 
