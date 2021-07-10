@@ -13,7 +13,6 @@
 </a>
 </p>
 
-<h2>This week I worked on</h2>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=addicted" />
 </a>
