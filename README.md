@@ -30,7 +30,7 @@
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addicted-ai&label=Profile+Views&color=green&style=plastic%22%20alt=%22addicted-ai" /> </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addicted-ai&" alt="addicted-ai" /></p>
 
 <!--
 **Addicted5/Addicted5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
