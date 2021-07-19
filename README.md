@@ -41,8 +41,8 @@
   <a href="https://www.linkedin.com/in/ashutosh-prusty/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/addicted-ai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/ashutoshprusty_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://kaggle.com/addic7ed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="addic7ed" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@ashutoshprusty29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ashutoshprusty29" height="30" width="40" /></a>
+  <a href="https://kaggle.com/addic7ed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="addic7ed" /></a>
+  <a href="https://www.hackerrank.com/@ashutoshprusty29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ashutoshprusty29" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addicted-ai&label=Profile%20views&color=0e75b6&style=flat" alt="addicted-ai" /> </p>
