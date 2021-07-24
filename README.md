@@ -43,7 +43,7 @@
   <a href="https://github.com/addicted-ai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/ashutoshprusty_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://kaggle.com/addic7ed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="addic7ed" /></a>
-  <a href="https://www.hackerrank.com/@ashutoshprusty29" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ashutoshprusty29" width="40" height="40"/></a>
+  <a href="https://www.hackerrank.com/@ashutoshprusty29" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ashutoshprusty29" width="35" height="35"/></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addicted-ai&label=Profile%20views&color=0e75b6&style=flat" alt="addicted-ai" /> </p>
