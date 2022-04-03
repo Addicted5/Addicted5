@@ -28,9 +28,9 @@
 </a>
 </p>
 
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=addicted" />
-</a>
+</a> -->
 <h2>Personal Projects</h2>
 
 [Find P-Value Web App](https://p-value-demo.herokuapp.com) <br>
