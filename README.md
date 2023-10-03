@@ -37,7 +37,8 @@
 [Find P-Value Web App](https://p-value-demo.herokuapp.com) (Server Down) <br>
 [WebApp for all my ML deployment](https://addicted-ai.herokuapp.com/) (Server Down)
 <h2>Academic Projects</h2>
-[Diabetic Retinopathy Detection using Fundus Images](https://huggingface.co/spaces/addicted/dr_resnet50)
+
+[Diabetic Retinopathy Detection](https://huggingface.co/spaces/addicted/dr_resnet50/)
 
 <h3>Where to find me</h3>
 
