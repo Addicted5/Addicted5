@@ -8,6 +8,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://huggingface.co/" target="_blank"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <!--   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> -->
@@ -33,8 +34,10 @@
 </a> -->
 <h2>Personal Projects</h2>
 
-[Find P-Value Web App](https://p-value-demo.herokuapp.com) <br>
-[WebApp for all my ML deployment](https://addicted-ai.herokuapp.com/) (Currently working on)
+[Find P-Value Web App](https://p-value-demo.herokuapp.com) (Server Down) <br>
+[WebApp for all my ML deployment](https://addicted-ai.herokuapp.com/) (Server Down)
+<h2>Academic Projects</h2>
+[Diabetic Retinopathy Detection using Fundus Images](https://huggingface.co/spaces/addicted/dr_resnet50)
 
 <h3>Where to find me</h3>
 
